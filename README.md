@@ -1,2 +1,2 @@
-# pgp
-Pay Gap Puzzle
+# Pay Gap Puzzle
+
