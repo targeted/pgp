@@ -5,9 +5,6 @@ Drag pawn-like pieces around to simulate hiring. Can you find a second fair stat
 
 ## [Demo](http://pgp.targeted.org/)
 
-
---------
-
 Please give it a try before scrolling to the
 
 ## Hint:
