@@ -3,9 +3,9 @@ Pay Gap Puzzle
 
 Drag pawn-like pieces around to simulate hiring. Can you find a second fair state ?
 
-## [Demo](http://pgp.targeted.org/)
+## [CLICK HERE TO PLAY](https://targeted.github.io/pgp.html)
 
-Please give it a try before scrolling to the
+Please give it a try before looking at the
 
 ## Hint:
 >                                                                                                                                                                                                                          It's unsolvable.
